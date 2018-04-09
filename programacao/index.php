@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Cecília Borba e Jalieny Ouriques</title>
 </head>
 <body>
 
